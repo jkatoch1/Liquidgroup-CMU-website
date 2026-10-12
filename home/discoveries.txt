@@ -1,0 +1,7 @@
+# discoveries.txt — curated pool for the homepage "This month in quantum materials" spotlight.
+# One per line: title | link. One item from this pool is featured each month (rotates automatically).
+# Add items as you find them; a scheduled watcher can PROPOSE additions, but a human should approve
+# every line before it lands here.
+CMU physicists take the Hall effect in a new direction (Nature Materials, 2026) | https://www.cmu.edu/mcs/news-events/2026/0819-hall-effect
+Orbital-selective Mott phases in TaS2 heterostructures (Nature Physics) | -
+Quantum sensing of spin dynamics with boron-vacancy centers in hBN (PRL) | https://arxiv.org/abs/2410.23421

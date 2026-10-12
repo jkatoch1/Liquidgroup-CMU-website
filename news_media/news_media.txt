@@ -1,0 +1,65 @@
+# news_media.txt — year-wise bookkeeping for the News & Media page of Liquid Group; developed by Aalok Tiwari
+
+# One per line: year | date (or "-") | title | link ("-" = none).
+# Keep EVERYTHING here — the home page shows only the last five years and offers the rest as an archive.
+
+
+2026 | 09-20 | A 100-Year-Old Physics Effect Doesn't Work How We Thought It Did, Study Finds | https://www.sciencealert.com/a-100-year-old-physics-effect-doesnt-work-how-we-thought-it-did-study-finds
+
+2026 | 08-25 | Welcome to new graduate student Sankalp Samdariya to the LIQUID group
+
+2026 | 08-19 | CMU physicists take the Hall effect in a new direction | https://www.cmu.edu/mcs/news-events/2026/0819-hall-effect
+
+2026 | 07-21 | Raghav wins poster award at Workshop on Efficient High-Frequency All-Electrical Control of Spin Dynamics in Quantum Magnetic Topological Insulators held in Pittsburgh 
+
+2026 | 06-30 | Direct Visualization of Gate-Tunable Flat Bands in Twisted Double Bilayer Graphene published in Physical Review Letters | https://journals.aps.org/prl/abstract/10.1103/3vg5-vkzy
+
+2026 | 05-28 | In-plane anomalous Hall effect in a low-dimensional system published in Nature Materials | https://www.nature.com/articles/s41563-026-02611-9
+
+2026 | 01-26 | Aalok receives MCS Graduate Conference award to attend the APS Global Physics Summit in Denver, Colorado
+ 
+2025 | 12-17 | Aalok wins poster award at Scalable Analog Quantum Simulation Using Moiré Superlattices Workshop held in Pittsburgh 
+
+2025 | 08-25 | Welcome to new graduate students Pratik Saud, Sagnik Bajpayee, and Kartik Shah 
+
+2025 | 06-27 | Quantum sensing of broadband spin dynamics and magnon transport in antiferromagnets published in Science Advances | https://www.science.org/doi/10.1126/sciadv.adu9381?referrer=https%3A%2F%2Fwww.google.com%2F
+
+2025 | 03-21 | Unconventional unidirectional magnetoresistance in heterostructures of a topological semimetal and a ferromagnet published in Nature Materials | https://www.nature.com/articles/s41563-025-02175-0
+
+2024 | 05-15 | I-Hsuan Kao continues his research as a postdoctoral researcher in the group 
+
+2024 | 07-01 | Souvik Sasmal joins as a postdoctoral researcher at Argonne National Laboratory 
+
+2024 | - | REU student Nathan Kim (Cal State Long Beach) joined for the summer | -
+
+2024 | 08-25 | Welcome to new graduate students Anshuman Sahoo and Pratyush Saud 
+2024 | - | Jyoti gave an invited talk at the APS Conference for Undergraduate Women in Physics (CUWiP), University of West Virginia | -
+2024 | - | Three-year Approved Program at the MAESTRO beamline (ALS) renewed | -
+2024 | - | DOE Basic Energy Sciences grant renewed for three years | -
+2024 | - | New paper accepted in Nature Physics on orbital-selective Mott phases | -
+2024 | - | Simran wins the NSF CAREER Award for topological semimetal spintronics | -
+2024 | - | Jyoti wins the NSF CAREER Award to study 3D Dirac semimetals | -
+2023 | - | Ryan Muzzio successfully defended his PhD thesis — congratulations, Dr. Muzzio! | -
+2023 | - | REU students Max Daughtry and Kristen Lina joined for the summer | -
+2023 | - | Welcome to new graduate students Aalok Tiwari and Zhenhong Cui | -
+2023 | - | Ravi Kumar (from IISc Bangalore) joined the group as a postdoc | -
+2023 | - | Madhura Ghosh, graduate student from IIT Madras, visited the lab for three months | -
+2022 | - | Nature Materials: deterministic SOT switching of a perpendicular magnet using WTe2 | -
+2022 | - | Simran receives the Kaufman Young Investigator Award | -
+2022 | - | Jyoti leads the NSF NeXUS working group on Quantum Materials and Condensed Matter Physics | -
+2022 | - | Jyoti appointed Co-Chair of the AVS 2D Materials Technical Group | -
+2021 | - | Gender Equity webinar with the Indian Physics Association and APS | -
+2021 | - | Virtual lab tour for the CMU Teacher Professional Development Program | -
+2020 | - | Advanced Materials: electrically tunable van Hove singularities in twisted bilayer graphene | -
+2020 | - | CUWiP Pittsburgh hosted at CMU — Jyoti Local Organizing Chair, Simran speaker | -
+2020 | - | Lab tours for visiting undergraduate women in physics | -
+2019 | - | Jyoti receives the DOE Early Career Award | -
+2019 | - | Jyoti receives the Ralph E. Powe Junior Faculty Enhancement Award (ORAU) | -
+2019 | - | Three-year Approved Program awarded at the Advanced Light Source | -
+2019 | - | Lab relocation and renovation completed (August 20) | -
+2019 | - | Welcome Dana and Malavika to Pittsburgh and the group (September) | -
+2019 | - | Ryan won the student poster award at PQI | -
+2019 | - | Jacob received a NASA summer internship to perform research in the group | -
+2018 | - | Welcome to new graduate students Jacob Gobbo and Ryan Muzzio (October) | -
+2018 | - | David Gronlund joined the LIQUID group (September) | -
+2018 | - | Jyoti gave an invited talk at the Advanced Light Source, Berkeley (October) | -

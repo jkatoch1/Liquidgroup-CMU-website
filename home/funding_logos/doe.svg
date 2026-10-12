@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120">
+  <defs>
+    <style>
+      .doe-bg { fill: #C41E3A; }
+      .doe-text { font-family: Arial, sans-serif; font-weight: bold; fill: white; }
+      .doe-symbol { fill: none; stroke: white; stroke-width: 2.5; }
+    </style>
+  </defs>
+  <!-- Main seal hexagon -->
+  <polygon points="60,15 105,38 105,82 60,105 15,82 15,38" class="doe-bg"/>
+  <polygon points="60,20 100,40 100,80 60,100 20,80 20,40" fill="none" stroke="white" stroke-width="2"/>
+
+  <!-- Energy symbol (atom) -->
+  <g class="doe-symbol">
+    <circle cx="60" cy="60" r="12"/>
+    <ellipse cx="60" cy="60" rx="28" ry="10" transform="rotate(0)"/>
+    <ellipse cx="60" cy="60" rx="28" ry="10" transform="rotate(60)"/>
+    <ellipse cx="60" cy="60" rx="28" ry="10" transform="rotate(120)"/>
+  </g>
+
+  <!-- Text -->
+  <text x="140" y="50" class="doe-text" font-size="28">DOE</text>
+  <text x="140" y="75" class="doe-text" font-size="14">Department of Energy</text>
+</svg>

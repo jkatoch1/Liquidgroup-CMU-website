@@ -1,0 +1,11 @@
+# funding_agencies.txt — funding agencies that support the LIQUID Group
+# Format: name | url | logo_file
+# Logo files live in this directory (home/funding_logos/)
+# Updated as new funding is secured
+
+National Science Foundation | https://www.nsf.gov | NSF.jpg
+U.S. Department of Energy — Basic Energy Sciences | https://www.energy.gov/science/bes | DOE.png
+U.S. Army Research Office | https://arl.devcom.army.mil/who-we-are/aro/ | aro.png
+W. M. Keck Foundation | https://www.wmkeck.org | KECK.png
+Naval Research Office | https://www.onr.navy.mil | Naval.png
+University of Pittsburgh Foundation | https://www.pitt.edu | Pitt_FOundation.png

@@ -1,0 +1,113 @@
+# LIQUID GROUP — Team Roster; developed by Aalok Tiwari
+
+# Format: photo | name | title | office | email | links (label=url;...)
+
+# Photo: Andrew ID filename (eg:aalokt.jpg) in members_pic/ folder, or "-"
+
+# Use "-" to omit any field. PUBLIC information only.
+
+[PIS]
+
+# photo | Name | Title | Office | Email | Links (label=url;label=url)
+
+jkatoch.jpg | Jyoti Katoch | Associate Professor, Department of Physics | Wean Hall 6414 | jkatoch@andrew.cmu.edu | Google Scholar=https://scholar.google.com/citations?user=xKrmD5IAAAAJ&hl=en
+
+simranjs.jpg | Simranjeet Singh | Associate Professor, Department of Physics | Wean Hall 6402 | simranjs@andrew.cmu.edu | Google Scholar=https://scholar.google.com/citations?user=hgtyZOUAAAAJ&hl=en
+
+[POSTDOCS]
+# photo | Name | Office | Email | Website | Research interest statement
+
+# New member? Copy this line and fill it in:
+# - | Your Name | Wean Hall #### | you@andrew.cmu.edu | https://your-site (or -) | Your 1–3 sentence research statement.
+
+rbandape.jpg | Ravi Kumar | Wean Hall 6410 | rbandape@andrew.cmu.edu | Google Scholar: https://scholar.google.com/citations?user=ybqQ9PkAAAAJ&hl=en | I work in experimental condensed matter physics, focusing on spintronics and 2D van der Waals materials. I study spin–charge conversion, anomalous Hall effects, unidirectional magnetoresistance, and spin–orbit phenomena in magnetic and topological heterostructures, with an emphasis on using crystal symmetry and interfacial effects to control and electrically detect magnetic states.
+
+rposti.png | Raghvendra Posti | Wean Hall 6406 | rposti@andrew.cmu.edu| Google Scholar: https://scholar.google.com/citations?user=BHHjWaAAAAAJ&hl=en; Orcid: https://orcid.org/0000-0003-1632-0095; LinkedIn: https://www.linkedin.com/in/raghvendra-posti-b5674377/ | I am interested in the emergent spin and charge transport phenomena arising in atomically thin, topological quantum-material heterostructures, spanning magnetic and ferroelectric systems, and I work across a broad range of transport techniques, from DC to GHz frequencies.
+
+
+sekahana.png | Sandy Ekahana | B15, Lawrence Berkeley National Laboratory   | sekahana@andrew.cmu.edu  | https://orcid.org/0000-0002-1693-8082 | I study heterostructure devices using synchrotron-based ARPES, including in operando measurements under gating, strain, and magnetic fields. I also develop AI methods for ARPES analysis, focusing on foundational models and physics-informed machine learning for experimental workflows.
+
+[GRADS]
+# photo | Name | Year | Office | Email | Website | Research interest statement
+# New member? Copy this line and fill it in:
+# - | Your Name | 1st Year | Wean Hall #### | you@andrew.cmu.edu | https://your-site (or -) | Your 1–3 sentence research statement.
+
+aalokt.jpg | Aalok Tiwari | 4th Year | Wean Hall 6406 | aalokt@andrew.cmu.edu | https://aaloktrii.github.io | I integrate synchrotron based ARPES & X-PEEM, physics aware modelling and nanofabrication to uncover unconventional electronic and magnetic phenomena arising from the confluence of electron correlation and relativistic effects in low-symmetry topological devices.
+
+zhenhonc.png | Zhenhong Cui | 4th Year | Wean Hall 6406| zhenhon@andrew.cmu.edu | - | My research focuses on spin transport, magnetism, and magnetoelectric coupling in two-dimensional van der Waals heterostructures.
+
+psaud.jpg | Pratyush Saud | 3rd Year | Wean Hall 6410 | psaud@andrew.cmu.edu | - | My research focuses on developing optical quantum sensing techniques using spin defects in van der Waals (vdW) materials. I explore methods to engineer and characterize novel spin centers in 2D hosts like hBN, and integrate them into vdW device architectures for non-invasive, optical probing of spin dynamics—including ferromagnetic resonance, antiferromagnetic resonance, and spin switching—from room to cryogenic temperatures
+
+ansahoo.jpeg | Anshu Sahoo | 3rd Year | Wean Hall 6410 | ansahoo@andrew.cum.edu | https://scholar.google.com/citations?user=D_qo_LsAAAAJ&hl=en | I am developing radio frequency based interferometer to probe the spin dynamics of mesoscopic sized vdW magnets. I am particularly interested in understanding the dynamics of weakly coupled antiferromagnets. Further I want to extend these techniques to understand high-frequency transport and dynamics of antiferomagnets when coupled with low-dimensional systems capable of generating spin-orbit torques.
+
+pratiksa.jpg | Pratik Saud |2nd Year | Wean Hall 6410 | pratiksa@andrew.cmu.edu | -| My research focuses on probing electronic band structures and charge density waves in 2D quantum materials via spatially-resolved ARPES and in-operando device engineering.
+
+sbajpeyi.png | Sagnik Bajpayee | 2nd Year | Wean Hall 6414 | sbajpeyi@andrew.cmu.edu | - | I investigate the emergent spin and electronic properties of 2D materials, with a specific emphasis on self-intercalated van der Waals ferromagnets 
+
+kvs2.jpg | Kartik Shah | 2nd Year | Wean Hall 6410 | kvs2@andrew.cmu.edu | - | I investigate spin dynamics and nanoscale spin-matter interactions in solid-state quantum systems using optically detected magnetic resonance and ferromagnetic resonance driven by coplanar waveguides and acoustic strain fields.
+
+ssamdari.png | Sankalp Samdariya | 1st Year | Wean Hall 6403 | ssamdari@andrew.cmu.edu | https://orcid.org/0009-0001-5799-9471 | Interested in two-dimensional quantum materials and their optical and electronic properties.
+
+
+[MASTER]
+# photo | Name | Year | Office | Email | Website | Research interest statement
+# New member? Copy this line and fill it in:
+# - | Your Name | 1st Year | Wean Hall #### | you@andrew.cmu.edu | https://your-site (or -) | Your 1–3 sentence research statement.
+
+[UNDERGRADS]
+# photo | Name | Department
+# New member? Copy this line and fill it in:
+# - | Your Name | Your department/major
+- | Brandon Tran | Physics
+- | Aiza Ali | Physics
+- | Arshia Dabas | Physics
+- | Haniel Jing | Physics
+- | Shreya | 
+
+
+[ALUMNI_GRAD]
+# Years | Name | Current affiliation | Thesis title | Thesis link
+2018-2024 | I-Hsuan Kao | Product Engineer, TSMC | Electrical Control and Readout of Magnetization using Low-Symmetry Topological Semimetals | https://kilthub.cmu.edu/articles/thesis/Electrical_Control_and_Readout_of_Magnetization_using_Low-Symmetry_Topological_Semimetals/25703349
+
+2018-2023 | Ryan Muzzio | Postdoctoral Researcher, NREL | Angle-Resolved Photoemission Spectroscopy on Two-Dimensional Heterostructures and Devices | https://kilthub.cmu.edu/articles/thesis/Angle-Resolved_Photoemission_Spectroscopy_on_Two-Dimensional_Heterostructures_and_Devices/23750988
+
+[ALUMNI_POSTDOC]
+# Years | Name | Current affiliation
+
+2023-2024 | Souvik Sasmal | Postdoctoral Scholar (Material Science Division), Argonne National Laboratory
+2023-2025 | Vipin Nagpal | Postdoctoral Fellow, Indian Institute of Science Education and Research, Thiruvananthapuram
+2020-2021 | Henrique Martins | Scientific Software Developer, Berkeley Lab
+2019-2021 | Igor Pinchuk | Founder and CEO, VolkVac Instruments
+
+[ALUMNI_MASTER]
+# Years | Name | Current affiliation
+
+- | Dana Pierce | -
+
+[ALUMNI_UNDERGRAD]
+# Years | Name | Current affiliation
+
+- | Mio Chen | 
+- | Liam Mitchell | Graduate student, Brown University
+- | Sean Yuan | Graduate student, University of Chicago
+- | Indra Periwal | Graduate student, Stanford University
+- | Nicholas David | Graduate student, University of Michigan
+- | Jacob Gobbo | Graduate student, UC Berkeley
+- | Melanie Garza | Graduate student, UT Austin
+- | Miriam Marino | Graduate student, University of Wisconsin
+- | Emeline Fromont | -
+- | Christian Frech | -
+- | Zivan Vasquez | -
+- | David Gorlund | -
+
+[EXCHANGE]
+# No photos here (visitors are only here ~3 months) — just a plain list.
+# Year | Name | Program · Institution
+2026 | Hasti Salsali | REU student · CUC Berkeley College of Engineering
+2026 | Daniel Swauger | REU student · Washington and Jefferson College
+2025 | Anubhav Nigam | REU student · Cornell University
+2024 | Nathan Kim | REU student · California State University Long Beach
+2023 | Max Daughtry | REU student · University of Central Florida
+2023 | Kristen Lina | REU student · University of Central Florida
+2019 | Gen Li | Exchange student · University of Science and Technology of China
+

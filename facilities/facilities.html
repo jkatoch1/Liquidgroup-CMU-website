@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Facilities — LIQUID Group</title>
+<meta name="description" content="In-house experimental capabilities and synchrotron programs of the LIQUID Group at Carnegie Mellon University.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap">
+<link rel="stylesheet" href="../assets/style.css?t=20261012">
+</head>
+<body>
+<nav class="nav" aria-label="Main">
+  <div class="nav-inner">
+    <a class="brand" href="../home/home.html">KATOCH–SINGH LAB</a>
+    <button class="nav-btn" id="menuBtn" aria-expanded="false" aria-controls="navLinks">Menu</button>
+    <div class="nav-links" id="navLinks">
+        <a href="../home/home.html">Home</a>
+        <a href="../research/research.html">Research</a>
+        <a href="../publications/publications.html">Publications</a>
+        <a href="../facilities/facilities.html" aria-current="page">Facilities</a>
+        <a href="../team/team.html">Team</a>
+        <a href="../outreach/outreach.html">Outreach</a>
+        <a href="../gallery/displays.html">Gallery</a>
+        <a href="../news_media/news_media.html">News & Media</a>
+    </div>
+    <button class="nav-btn" id="themeBtn" aria-label="Toggle color theme">Theme</button>
+  </div>
+</nav>
+<header class="hero">
+  <div class="wrap">
+    <h1 class="page-title">Facilities</h1>
+  </div>
+</header>
+<main class="wrap page">
+  <div id="facilities-root"><p class="pub-note">Loading facilities from <code>facilities/facilities.txt</code>…</p></div>
+</main>
+
+<!-- Image Modal Lightbox -->
+<div id="imageModal" class="modal" style="display:none;">
+  <div class="modal-content">
+    <button class="modal-close" aria-label="Close image viewer">&times;</button>
+    <div class="modal-image-container">
+      <img id="modalImage" src="" alt="Facility image" />
+    </div>
+    <div class="modal-nav">
+      <button id="prevBtn" class="modal-btn" aria-label="Previous image">‹</button>
+      <span id="imageCounter" class="modal-counter"></span>
+      <button id="nextBtn" class="modal-btn" aria-label="Next image">›</button>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div>© 2026 Katoch–Singh Lab (LIQUID Group) · Department of Physics · Carnegie Mellon University</div>
+  <div style="font-size: 0.8rem; color: var(--navy); margin-top: 4px;">Created by <a href="https://aaloktrii.github.io/" style="color: var(--navy); text-decoration: none;">Aalok Tiwari</a></div>
+</footer>
+<script src="../assets/site.js?t=20261012"></script>
+</body>
+</html>

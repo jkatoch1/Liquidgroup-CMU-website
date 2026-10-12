@@ -1,0 +1,45 @@
+# LIQUID GROUP — Outreach Timeline and Gallery
+# Format: Either "event | description" or "image | filename | caption"
+# Organized by year [YEAR]
+
+[2026]
+event | CMU Teacher Professional Development Program (June 29, July 2) — Aalok trained high school teachers to demonstrate fundamental concepts of graphene electronics & circuits.
+event | CMU Teacher Professional Development Program (June 29, July 2) — Anshu lectured about measuring viscosity of fluids.
+
+[2024]
+event | Jyoti delivered an invited talk at the APS Conference for Undergraduate Women in Physics (CUWiP), hosted by the University of West Virginia.
+
+[2023]
+event | NSF-funded program hosting students from minority-serving institutions in the lab (REU students Max Daughtry and Kristen Lina, University of Central Florida).
+image | IMG_5346.JPG | Lab tour and outreach event
+image | IMG_5352.JPG | Student outreach workshop
+image | IMG_5357.JPG | Community engagement activity
+image | IMG_5371.JPG | Group discussion at outreach event
+image | IMG_5842-20.jpg | Lab outreach workshop
+image | IMG_8597.jpg | Community engagement event
+image | User-Workshop-dinner-1-768x576.jpg | Team dinner at outreach workshop
+image | User-Workshop-dinner-group-862x646.jpg | Group dinner at outreach event
+
+[2022]
+event | Jyoti led the NSF NeXUS working group on "Quantum Materials and Condensed Matter Physics".
+event | Liquid-nitrogen demonstrations for high-school students at the Neighborhood Academy, Pittsburgh.
+image | website2 (1).jpeg | Outreach presentation
+image | website2.jpeg | Website featured outreach
+
+[2021]
+event | Gender Equity webinar in partnership with the Indian Physics Association and APS.
+event | Virtual lab tour for the CMU Teacher Professional Development Program.
+image | APS CUWiP 1-316x316.png | APS Conference for Undergraduate Women in Physics
+image | Screen+Shot+2021-07-13+at+2.01.35+PM.jpg | Seminar presentation screenshot
+
+[2020]
+event | CUWiP Pittsburgh — Jyoti served as Local Organizing Chair, Simran as a speaker, and Ryan as a panelist.
+event | Lab tour for visiting undergraduate women in physics.
+event | Jyoti served as physics faculty advisor for the Women in Science Club at CMU.
+image | Screenshot_2020-01-24+20202-PGH-CUWiP-48.jpg | Pittsburgh CUWiP Conference
+
+[2019]
+event | Breakthrough Pittsburgh middle-school program — 75 students visited; Ryan served as a lab leader.
+
+[2016]
+event | CUWiP at Ohio State University — Jyoti helped organize, bringing together hundreds of undergraduate women in physics.

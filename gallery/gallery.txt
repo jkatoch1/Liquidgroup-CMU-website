@@ -1,0 +1,24 @@
+# gallery.txt — gallery images: file | year | caption | category
+# Categories: Beamtimes, Lab work, Conferences, Equipment, Nanofab
+2026_bay_area_AT.JPG | 2026 | View from ALS overlooking San Francisco Bay (Beamtime)| Beamtimes
+2025_devices.JPG | 2025 | Topological devices for in-operando nARPES | Beamtimes
+2025_aalok_maestro.JPG | 2025 | Aalok at nARPES endstation, ALS | Beamtimes
+2024_bessy_group.jpg | 2024 | Group at BESSY II beamline | Beamtimes
+2024_bessy_jyoti.jpg | 2024 | Jyoti at BESSY II synchrotron | Beamtimes
+2024_bessy_analysis.jpg | 2024 | Data analysis at BESSY II | Beamtimes
+2024_bessy_uhv.jpg | 2024 | Aalok working on X-PEEM chamber | Beamtimes
+2024_bessy_wirebond.jpg | 2024 | Simran wire bonding at BESSY II | Beamtimes
+2024_beamline_member.jpg | 2024 | Souvik at synchrotron beamline | Beamtimes
+2024_mbe_glow.jpg | 2024 | MBE chamber glowing during thin film growth | Equipment
+2023_nanofab_AT.JPG | 2023 | Aalok in the nanofabrication laboratory | Nanofab
+2023_breakfast_AT.JPG | 2023 | Group members after beamtime at MAESTRO | Beamtimes
+2023_kao_poster.jpeg | 2023 | Ishuan presenting his work at IRG | Conference
+2023_sample_closeup.jpg | 2023 | Quantum material sample closeup | Lab work
+2023_glovebox_holder.jpg | 2023 | Sample holder in glovebox | Lab work
+2023_stacking.jpg | 2023 | Stacking 2D materials | Lab work
+2023_research_action.jpg | 2023 | Research in action | Lab work
+2023_epitaxy.jpg | 2023 | Epitaxial thin film growth | Equipment
+2022_aps_sean.jpg | 2022 | Sean Yuan at APS March Meeting | Conferences
+2022_aps_indra.jpg | 2022 | Indra Periwal at APS March Meeting | Conferences
+2022_aps_anh.jpg | 2022 | Anh Ramirez at APS March Meeting | Conferences
+2020_cuwip_cmu.jpg | 2020 | CUWiP at Carnegie Mellon University | Conferences

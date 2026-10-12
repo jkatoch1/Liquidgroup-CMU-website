@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120">
+  <defs>
+    <style>
+      .nsf-bg { fill: #0033A0; }
+      .nsf-text { font-family: Arial, sans-serif; font-weight: bold; fill: white; }
+      .nsf-symbol { fill: none; stroke: white; stroke-width: 2; }
+    </style>
+  </defs>
+  <!-- Main seal circle -->
+  <circle cx="60" cy="60" r="55" class="nsf-bg"/>
+  <circle cx="60" cy="60" r="50" fill="none" stroke="white" stroke-width="2"/>
+
+  <!-- Snowflake/science symbol -->
+  <g class="nsf-symbol">
+    <circle cx="60" cy="60" r="8"/>
+    <line x1="60" y1="20" x2="60" y2="100" stroke-width="1.5"/>
+    <line x1="20" y1="60" x2="100" y2="60" stroke-width="1.5"/>
+    <line x1="33" y1="33" x2="87" y2="87" stroke-width="1.5"/>
+    <line x1="87" y1="33" x2="33" y2="87" stroke-width="1.5"/>
+  </g>
+
+  <!-- Text -->
+  <text x="140" y="50" class="nsf-text" font-size="28">NSF</text>
+  <text x="140" y="75" class="nsf-text" font-size="14">National Science Foundation</text>
+</svg>

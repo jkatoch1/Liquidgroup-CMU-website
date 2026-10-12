@@ -1,0 +1,3 @@
+# patents.txt — Patents and intellectual property
+# One per line: patent_number | title | date | link
+US10134979B1 | Strontium oxide as a tunnel barrier for spin injection and giant spin accumulation | 2019 | https://patents.google.com/patent/US10134979B1/en

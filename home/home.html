@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>LIQUID Group</title>
+<meta name="description" content="The Katoch–Singh Lab (LIQUID Group) at Carnegie Mellon University investigates quantum materials, interfaces and devices.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,500&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap">
+<link rel="stylesheet" href="../assets/style.css?t=20261012">
+</head>
+<body>
+<nav class="nav" aria-label="Main">
+  <div class="nav-inner">
+    <a class="brand" href="../home/home.html">KATOCH–SINGH LAB</a>
+    <button class="nav-btn" id="menuBtn" aria-expanded="false" aria-controls="navLinks">Menu</button>
+    <div class="nav-links" id="navLinks">
+        <a href="../home/home.html" aria-current="page">Home</a>
+        <a href="../research/research.html">Research</a>
+        <a href="../publications/publications.html">Publications</a>
+        <a href="../facilities/facilities.html">Facilities</a>
+        <a href="../team/team.html">Team</a>
+        <a href="../outreach/outreach.html">Outreach</a>
+        <a href="../gallery/displays.html">Gallery</a>
+        <a href="../news_media/news_media.html">News & Media</a>
+    </div>
+    <button class="nav-btn" id="themeBtn" aria-label="Toggle color theme">Theme</button>
+  </div>
+</nav>
+
+<header class="hero hero-home">
+  <h1>LIQUID GROUP</h1>
+  <hr class="rule">
+  <p class="tagline"><b>L</b>ab for <b>I</b>nvestigating <b>Qu</b>antum Materials, <b>I</b>nterfaces &amp; <b>D</b>evices</p>
+</header>
+
+<section class="band">
+  <div class="wrap">
+    <p>We investigate intrinsic physical properties of novel quantum materials such as two-dimensional materials, topological materials, and van der Waals based cross-dimensional synthetic hetero-structures. We seek to understand and exploit the interplay of twist, charge, spin and valley degrees of freedom in these systems for future device applications.</p>
+  </div>
+</section>
+
+<section class="wrap home-grid">
+  <figure class="snapshot">
+    <div style="position: relative;">
+      <img id="snapshot-img" src="../gallery/gallery/2024_bessy_group.jpg" alt="Research in progress" class="snapshot-image" loading="lazy">
+      <button id="snapshot-prev" style="position: absolute; left: 8px; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.4); border: none; color: white; font-size: 1.5rem; width: 36px; height: 36px; border-radius: 4px; cursor: pointer; display: flex; align-items: center; justify-content: center;" title="Previous image">‹</button>
+      <button id="snapshot-next" style="position: absolute; right: 8px; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.4); border: none; color: white; font-size: 1.5rem; width: 36px; height: 36px; border-radius: 4px; cursor: pointer; display: flex; align-items: center; justify-content: center;" title="Next image">›</button>
+    </div>
+    <figcaption id="snapshot-cap">A moment from the lab — refreshed on every visit.</figcaption>
+    <div class="gal-link"><a href="../gallery/displays.html">View gallery →</a></div>
+  </figure>
+  <div>
+    <h2 style="margin-top:0">Recent News</h2>
+    <ul class="news-list" id="home-news"></ul>
+    <div class="spotlight">
+      <span class="label">This month in quantum physics</span>
+      <p id="spotlight-body" style="margin: 12px 0 0; font-size: 0.95rem;"><a id="spotlight-link" href="#" style="color: var(--accent); text-decoration: none;">—</a></p>
+    </div>
+  </div>
+</section>
+
+<section class="funding">
+  <div class="wrap">
+    <h2>Our work is supported by</h2>
+    <div class="logo-row" id="funding-row"></div>
+    <div class="funding-separator"></div>
+    <div class="cmu-info">
+      <p style="margin: 0;"><strong>Carnegie Mellon University · LIQUID</strong></p>
+      <address style="margin: 8px 0 0; font-style: normal; font-size: 0.9rem; line-height: 1.4;">
+        Katoch–Singh Lab (LIQUID Group)<br>
+        Department of Physics<br>
+        Wean Hall, 5000 Forbes Avenue<br>
+        Pittsburgh, PA 15213, USA
+      </address>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div>© 2026 Katoch–Singh Lab (LIQUID Group) · Department of Physics · Carnegie Mellon University</div>
+  <div style="font-size: 0.8rem; color: var(--navy); margin-top: 4px;">Created by <a href="https://aaloktrii.github.io/" style="color: var(--navy); text-decoration: none;">Aalok Tiwari</a></div>
+</footer>
+<script src="../assets/site.js?t=20261012"></script>
+</body>
+</html>

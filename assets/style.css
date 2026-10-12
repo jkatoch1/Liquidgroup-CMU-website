@@ -155,7 +155,7 @@ h3 { font-size: 1.2rem; margin: 1.4rem 0 0.5rem; color: #8B0000; }
 .funding h2 { margin-top: 0; }
 .logo-row { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; justify-content: flex-start; }
 .logo-row a { display: inline-flex; align-items: center; gap: 10px; border: 0; background: transparent; border-radius: 0; padding: 0; color: var(--ink); font-weight: 400; font-size: 0.9rem; }
-.logo-row img { height: 72px; width: auto; display: block; }
+.logo-row img { height: 72px; width: auto; max-width: none; flex: none; object-fit: contain; display: block; }  /* never stretch: keep each logo's own proportions */
 .logo-row a:hover { text-decoration: none; opacity: 0.8; }
 
 .funding-separator { width: 60px; height: 2px; background: var(--accent); margin: 24px 0; }

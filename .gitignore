@@ -1,1 +1,9 @@
 .DS_Store
+Icon?
+
+# Working notes — kept in Dropbox, not published to the public site
+*.md
+website_structure.rtf
+README.txt
+facilities/facilities_images/Glove-box assembly system/GloveBox Text.txt
+facilities/facilities_images/MBE System/MBE chamber.txt

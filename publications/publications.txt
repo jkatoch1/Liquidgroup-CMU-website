@@ -2,7 +2,7 @@
 # Preprints: P | year | ... | title | venue | link
 # Use "-" for no link
 
-P | 2026 | Sandy Adhitia Ekahana, Aalok Tiwari, Pratik Saud, Aaron Bostwick, Chris Jozwiak, Eli Rotenberg, and Jyoti Katoch | Progress and Prospect of AI in ARPES Workflow | Submitted; arXiv:2610.10140 (2026) | https://arxiv.org/abs/2610.10140
+P | 2026 | Sandy Adhitia Ekahana^, Aalok Tiwari^, Pratik Saud, Aaron Bostwick, Chris Jozwiak, Eli Rotenberg, and Jyoti Katoch | Progress and Prospect of AI in ARPES Workflow | Submitted; arXiv:2610.10140 (2026) | https://arxiv.org/abs/2610.10140
 
 P | 2026 | Ravi Kumar Bandapelli, I-Hsuan Kao, Zhenhong Cui, Raghvendra Posti, Jian Tang, Tiema Qian, Souvik Sasmal, Aalok Tiwari, Thomas Poirier, James H. Edgar, Kenji Watanabe, Takashi Taniguchi, Ni Ni, Qiong Ma, Jyoti Katoch, and Simranjeet Singh | Tilted Spin Polarization Enabled Multidimensional Unidirectional Magnetoresistance | Under review (2026) | -
 

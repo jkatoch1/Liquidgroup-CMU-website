@@ -22,3 +22,5 @@
 2022_aps_indra.jpg | 2022 | Indra Periwal at APS March Meeting | Conferences
 2022_aps_anh.jpg | 2022 | Anh Ramirez at APS March Meeting | Conferences
 2020_cuwip_cmu.jpg | 2020 | CUWiP at Carnegie Mellon University | Conferences
+2025_ravi_osu_mrsec.jpg | 2025 | Ravi Kumar presenting at Ohio State University (MRSEC) | Conferences
+2026_raghav_pqi_workshop.jpg | 2026 | Raghav presenting poster at PQI workshop | Conferences

@@ -32,7 +32,7 @@ sekahana.png | Sandy Ekahana | B15, Lawrence Berkeley National Laboratory   | se
 # New member? Copy this line and fill it in:
 # - | Your Name | 1st Year | Wean Hall #### | you@andrew.cmu.edu | https://your-site (or -) | Your 1–3 sentence research statement.
 
-aalokt.jpg | Aalok Tiwari | 4th Year | Wean Hall 6406 | aalokt@andrew.cmu.edu | https://aaloktrii.github.io | I integrate synchrotron based ARPES & X-PEEM, physics aware modelling and nanofabrication to uncover unconventional electronic and magnetic phenomena arising from the confluence of electron correlation and relativistic effects in low-symmetry topological devices.
+aalokt.jpg | Aalok Tiwari | 4th Year | Wean Hall 6406 | aalokt@andrew.cmu.edu | https://aaloktrii.github.io | I integrate synchrotron-enabled ARPES & XPEEM, physics-aware modelling and nanofabrication to uncover unconventional electronic and magnetic phenomena arising from the interplay of electronic correlations and relativistic effects in low-symmetry topological microelectronics.
 
 zhenhonc.png | Zhenhong Cui | 4th Year | Wean Hall 6406| zhenhon@andrew.cmu.edu | - | My research focuses on spin transport, magnetism, and magnetoelectric coupling in two-dimensional van der Waals heterostructures.
 

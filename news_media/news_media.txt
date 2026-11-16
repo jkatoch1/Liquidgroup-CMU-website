@@ -3,6 +3,9 @@
 # One per line: year | date (or "-") | title | link ("-" = none).
 # Keep EVERYTHING here — the home page shows only the last five years and offers the rest as an archive.
 
+2026 | 11-13 | Aalok selected for the prestigious Bruce McWilliams Graduate Fellowship to continue his research at the intersection of 2D topological insulators and physics-aware adaptive learning
+
+2026 | 11-12 | Aalok wins first prize for his JVST-featured poster, "Nanoscale Imaging of Layer-Parity- and Twist-Dependent Magnetism in CrSBr," at the AVS 72nd International Symposium
 
 2026 | 09-20 | A 100-Year-Old Physics Effect Doesn't Work How We Thought It Did, Study Finds | https://www.sciencealert.com/a-100-year-old-physics-effect-doesnt-work-how-we-thought-it-did-study-finds
 

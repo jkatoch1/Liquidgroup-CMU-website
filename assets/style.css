@@ -244,6 +244,7 @@ h3 { font-size: 1.2rem; margin: 1.4rem 0 0.5rem; color: #8B0000; }
 .gal-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
 .gal-item { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; box-shadow: var(--shadow); display: flex; flex-direction: column; height: 100%; }
 .gal-item .ph { aspect-ratio: 16/10; }
+.gal-item .ph img { object-position: 50% 15%; }  /* keep heads in frame on portrait photos */
 .gal-item figcaption { padding: 12px 14px; font-size: 0.88rem; color: var(--muted); flex-grow: 1; }
 .gal-item figcaption .y { color: var(--accent); font-weight: 700; margin-right: 6px; }
 
